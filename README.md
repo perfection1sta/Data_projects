@@ -1,3 +1,3 @@
 # SQL
 
-my SQL projects
+EDA on a Lego dataset from https://rebrickable.com/downloads/
